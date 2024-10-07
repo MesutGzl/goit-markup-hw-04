@@ -162,6 +162,7 @@ header a {
 .first-list{
   display: flex;
   text-align: center;
+  gap:30px
 }
 .first-list h3:hover{
   color: #404bbf;
