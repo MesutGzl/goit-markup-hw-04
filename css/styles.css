@@ -200,12 +200,13 @@ header a {
 .team-list .list-photo{
   background-color: white;
 }
-.team-list ul{
+.team-list ul {
   display: flex;
   gap:32px
 }
 .team-list li {
   list-style: none;
+  
 }
 .team-list h2 {
   font-weight: 700;
