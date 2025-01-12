@@ -420,12 +420,13 @@ main .fourth-section-p-items {
   max-width: 264px;
 }
 
-.footer-media-p {
+.footer-media-item{
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height:1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin-top: 0;
 }
 
 .footer-media-ul {
