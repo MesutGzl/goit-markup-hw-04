@@ -426,6 +426,7 @@ main .fourth-section-p-items {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin: 0;
 }
 
 .footer-media-ul {
@@ -433,7 +434,6 @@ main .fourth-section-p-items {
   display: flex;
   gap: 16px;
   padding: 0;
-  margin-top: 16px;
 }
 
 .footer-social-link {
