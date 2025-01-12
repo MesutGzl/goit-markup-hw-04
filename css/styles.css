@@ -113,6 +113,8 @@ header address .address-list li a:focus {
 }
 
 main .first-section {
+  padding: 188px 0;
+  max-width: 1440px;
   background-color: #2e2f42;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
@@ -122,8 +124,7 @@ main .first-section {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  padding: 188px 0;
-  max-width: 1440px;
+  margin: 0 auto;
 }
 
 main .first-section-banner {
@@ -448,5 +449,16 @@ main .fourth-section-p-items {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
+}
 
+.footer-link:hover{
+  background-color: #31d0aa;
+}
+
+.footer-link:focus{
+  background-color: #31d0aa;
+}
+
+.footer-svg {
+  fill: #f4f4fd;
 }
